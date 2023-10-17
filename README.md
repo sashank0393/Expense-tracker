@@ -1,2 +1,2 @@
 # Expense-tracker
-Simple Expense tracking application using C progamming
+Simple Expense tracking application using C programming
